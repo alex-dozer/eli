@@ -1,0 +1,2 @@
+[workspace]
+members = ["./crates/*", "crates/eli-app", "crates/eli-edge", "crates/eli_agg", "crates/eli_control", "crates/eli_er", "crates/eli_macros", "crates/eli_math", "crates/eli_ml", "crates/eli_mlc", "crates/eli_realtime", "crates/eli_relay", "crates/eli_silo"]
